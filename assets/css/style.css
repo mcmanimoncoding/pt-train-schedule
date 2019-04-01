@@ -1,0 +1,25 @@
+table, th:not(last-child), td{
+    
+    /* border-right: 1px solid #333333; */
+    border-bottom: 1px solid #333333;
+  }
+  th:last-child{
+      border-right:none;
+  }
+
+
+table{
+    width: 100%;
+    text-align: center;
+    
+
+}
+  tr{
+      
+  }
+
+  .card-header, .jumbotron {
+      color: white;
+      background-image: linear-gradient(rgb(108, 154, 206),rgb(108, 154, 236), rgb(108, 154, 246))
+
+  }
